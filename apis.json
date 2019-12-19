@@ -1,0 +1,46 @@
+{
+    "name": "Chirpify",
+    "description": "We enable brands to connect social and chat to loyalty and CRM, to engage and reward consumers for engagement and surprise and delight.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1037-chirpify.jpg",
+    "tags": [
+        "api not found",
+        "engagement",
+        "have api",
+        "loyalty",
+        "marketing automation",
+        "no api",
+        "social",
+        "twitter"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/chirpify\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [],
+    "x-common": [
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/sell-simply"
+        },
+        {
+            "type": "Email",
+            "url": "support@chirpify.com"
+        },
+        {
+            "type": "Email",
+            "url": "hello@chirpify.com"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/Chirpify"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/Chirpify"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/chirpify.com\/developers"
+        }
+    ]
+}
